@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+.selection{
+    display: block;
+}
+.selection h1,h2,h3,p{
+    margin-top: 12px;
+    text-align: center;
+}
+.selection p{
+    display: block;
+    border: 1px solid black;
+}
+.photo{
+    display: block;
+    height:200%;
+    text-align: center;
+}
+img{
+width:50%;
+height:120%;
+    margin-top: 30px;
+    border-radius:60%;
+  
+}
+.photo p{
+    text-align: center;
+    background-color:grey;
+    color:black;
+    border:1px solid black;
+
+}
+.list{
+margin-left: 30px;
+}
+.list ul li{
+list-style-type: disc;
+
+}
+.header{
+    margin-bottom: 15px;
+    display:block;
+    text-align: left;
+}
